@@ -1,3 +1,5 @@
+Not responsive, was implemented for the sake of practice of react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
